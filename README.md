@@ -28,7 +28,6 @@ backend-todo-app/
 │   └── migrations/             #
 │
 ├── src/
-│   ├── controllers/            # (Optional) For future separation of concerns
 │   └── middlewares/
 │       └── authMiddleware.js    # Middleware for verifying JWT and protecting routes
 │   └── routes/
